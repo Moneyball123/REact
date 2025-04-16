@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Moneyball123/REact/my_portfolio/static/css/main.94851825.css",
-    "main.js": "/Moneyball123/REact/my_portfolio/static/js/main.9c99205e.js",
-    "static/media/profile.png": "/Moneyball123/REact/my_portfolio/static/media/profile.fc1ed1ca915d3023f4a1.png",
-    "index.html": "/Moneyball123/REact/my_portfolio/index.html",
-    "main.94851825.css.map": "/Moneyball123/REact/my_portfolio/static/css/main.94851825.css.map",
-    "main.9c99205e.js.map": "/Moneyball123/REact/my_portfolio/static/js/main.9c99205e.js.map"
+    "main.css": "/Moneyball123.io/REact/static/css/main.94851825.css",
+    "main.js": "/Moneyball123.io/REact/static/js/main.1dfd0f9c.js",
+    "static/media/profile.png": "/Moneyball123.io/REact/static/media/profile.fc1ed1ca915d3023f4a1.png",
+    "index.html": "/Moneyball123.io/REact/index.html",
+    "main.94851825.css.map": "/Moneyball123.io/REact/static/css/main.94851825.css.map",
+    "main.1dfd0f9c.js.map": "/Moneyball123.io/REact/static/js/main.1dfd0f9c.js.map"
   },
   "entrypoints": [
     "static/css/main.94851825.css",
-    "static/js/main.9c99205e.js"
+    "static/js/main.1dfd0f9c.js"
   ]
 }
