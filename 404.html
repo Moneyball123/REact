@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Redirecting...</title>
+    <script>
+      const segment = 1; // Adjust if your app isn't at domain root
+      const l = window.location;
+      l.replace(
+        l.protocol + '//' + l.hostname + 
+        (l.port ? ':' + l.port : '') + 
+        l.pathname.split('/').slice(0, 1 + segment).join('/') + 
+        '/index.html' + 
+        l.search + 
+        l.hash
+      );
+    </script>
+  </head>
+  <body>
+    <h1>Redirecting...</h1>
+  </body>
+</html>
